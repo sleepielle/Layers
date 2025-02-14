@@ -1,4 +1,4 @@
-const faqs = [
+/*const faqs = [
     {
         question: "How is Layers different from other design tools?",
         answer: "Unlike traditional design tools, Layers prioritizes speed and simplicity without sacrificing power. Our intelligent interface adapts to your workflow, reducing clicks and keeping you in your creative flow.",
@@ -24,3 +24,4 @@ const faqs = [
 export default function Faqs() {
     return <div>Faqs</div>;
 }
+*/

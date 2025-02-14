@@ -1,4 +1,4 @@
-import quantumLogo from "@/assets/images/quantum.svg";
+/*import quantumLogo from "@/assets/images/quantum.svg";
 import acmeLogo from "@/assets/images/acme-corp.svg";
 import echoValleyLogo from "@/assets/images/echo-valley.svg";
 import pulseLogo from "@/assets/images/pulse.svg";
@@ -21,3 +21,4 @@ const logos = [
 export default function LogoTicker() {
     return <div>Logo Ticker</div>;
 }
+*/

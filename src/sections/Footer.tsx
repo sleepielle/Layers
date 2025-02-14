@@ -1,4 +1,4 @@
-const footerLinks = [
+/*const footerLinks = [
     { href: "#", label: "Contact" },
     { href: "#", label: "Privacy Policy" },
     { href: "#", label: "Terms & Conditions" },
@@ -7,3 +7,4 @@ const footerLinks = [
 export default function Footer() {
     return <div>Footer</div>;
 }
+*/

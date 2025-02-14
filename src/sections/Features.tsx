@@ -1,4 +1,4 @@
-const features = [
+/*const features = [
     "Asset Library",
     "Code Preview",
     "Flow Mode",
@@ -11,3 +11,4 @@ const features = [
 export default function Features() {
     return <div>Features</div>;
 }
+*/
