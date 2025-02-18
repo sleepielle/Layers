@@ -43,7 +43,7 @@ const integrations = [
 
 export default function Integrations() {
     return (
-        <section className="py-24 overflow-hidden ">
+        <section id="integrations" className="py-24 overflow-hidden ">
             <div className="container">
                 <div className="flex flex-col md:flex-row items-center lg:gap-16 gap-3">
                     <div className="">
