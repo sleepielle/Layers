@@ -45,8 +45,8 @@ export default function Integrations() {
     return (
         <section className="py-24 overflow-hidden ">
             <div className="container">
-                <div className="grid lg:grid-cols-2 items-center lg:gap-16">
-                    <div>
+                <div className="flex flex-col md:flex-row items-center lg:gap-16 gap-3">
+                    <div className="">
                         <Tag>Integrations</Tag>
                         <h2 className="text-6xl font-medium mt-6">
                             Plays well with{" "}
@@ -60,7 +60,10 @@ export default function Integrations() {
                     </div>
                     <div>
                         <div className="h-[400px] lg:h-[800px] grid md:grid-cols-2 gap-4 lg:mt-2 mt-8 overflow-hidden [mask-image:linear-gradient(to_bottom,transparent,black_10%,black_90%,transparent)]">
-                            <IntegrationColumn integrations={integrations} />
+                            <IntegrationColumn
+                                integrations={integrations}
+                                reverse
+                            />
                             <IntegrationColumn
                                 className="hidden md:block lg:mt-4"
                                 integrations={integrations.slice().reverse()}
