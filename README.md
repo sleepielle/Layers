@@ -113,4 +113,4 @@ Then open 👉 http://localhost:3000
 ## 🌸 Let's Connect!
 
 ![Banner](./src/assets/images/banner.png)
-Let's connect on [LinkedIn](https://linkedin.com/mercedesgpaz) — or drop a ⭐ if you liked this project!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/mercedesgpaz/) — or drop a ⭐ if you liked this project!
