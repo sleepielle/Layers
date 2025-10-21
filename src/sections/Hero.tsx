@@ -54,7 +54,7 @@ export default function Hero() {
                 { duration: 0.5 },
             ],
         ]);
-    }, []);
+    });
 
     return (
         <section
@@ -113,7 +113,7 @@ export default function Hero() {
                 </div>
 
                 <h1 className="text-6xl md:text-7xl font-medium text-center mt-6 lg:text-7xl">
-                    Impactful design, created efforlessly
+                    Impactful design, created effortlessly
                 </h1>
                 <p className="text-center text-xl text-white/50 mt-8 max-w-2xl mx-auto">
                     Design tools shouldn&apos;t slow you down. Layers combines

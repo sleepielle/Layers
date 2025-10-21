@@ -23,7 +23,7 @@ export default function Navbar() {
             <section className="py-4 lg:py-8 fixed w-full top-0 z-50 ">
                 <div className="container max-w-5xl">
                     <div className="border border-white/15 rounded-[27px] md:rounded-full  bg-neutral-950/70 backdrop-blur-sm ">
-                        <div className="grid grid-cols-2 lg:grid-cols-3   p-2 px-4 md:pr-2 items-center">
+                        <div className="grid grid-cols-2 lg:grid-cols-3  p-2 px-4 md:pr-2 items-center">
                             <div>
                                 <Image
                                     src={logoImage}
@@ -31,6 +31,7 @@ export default function Navbar() {
                                     className="h-9 w-auto md:h-auto"
                                 />
                             </div>
+
                             <div className="lg:flex items-center justify-center hidden">
                                 <nav className="flex gap-6 font-medium ">
                                     {navLinks.map((link) => (
@@ -51,6 +52,7 @@ export default function Navbar() {
                                     ))}
                                 </nav>
                             </div>
+
                             <div className="flex justify-end gap-4">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
