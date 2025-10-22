@@ -1,6 +1,10 @@
 # 🎨 Layers Landing Page
 ![Hero](/src/assets/gifs/hero.gif) 
 
+<p align="center"><b>Play gifs to see animations!</b></p>
+
+
+
 > A **pixel-perfect implementation** of a Figma community design, built with **Next.js**, **TailwindCSS**, and **Framer Motion**. The goal was to recreate the design faithfully, while also adding a **component-based architecture** and **motion design integration** to elevate the user experience. 
 
 🌐 **Live Preview:** [https://layers-fawn.vercel.app/](https://layers-fawn.vercel.app/)  
@@ -69,6 +73,7 @@ layers-landing-page/
 ---
 
 ## 🖼️ UI Showcase
+**Play gifs to see animations!**
 ![Hero](/src/assets/gifs/hero.gif) 
 ![Features](/src/assets/gifs/features.gif)
 ![Integrations](/src/assets/gifs/integrations.gif)
